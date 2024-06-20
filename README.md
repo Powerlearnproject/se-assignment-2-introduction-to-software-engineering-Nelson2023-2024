@@ -19,6 +19,7 @@ Questions:
 Software Engineering: Encompasses the entire software development lifecycle, including requirements analysis, design, implementation, testing, deployment, and maintenance.
 Traditional Programming: Primarily focuses on the implementation phase, where actual coding is done.
 
+
 **Methodology:**
 
 Software Engineering: Uses structured methodologies and frameworks such as Agile, Waterfall, DevOps, and more to manage the development process. It emphasizes planning, design, testing, and documentation.
@@ -34,6 +35,8 @@ The **Software Development Life Cycle (SDLC)** is a systematic process used by s
 **1. Planning:**
 
 This phase involves identifying the scope of the project, gathering initial requirements, performing feasibility studies, and creating a project plan. It includes resource allocation, project scheduling, cost estimation, and risk management.
+
+
 
 **2. Requirements Analysis:**
 
